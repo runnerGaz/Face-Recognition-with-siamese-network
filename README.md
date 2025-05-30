@@ -58,10 +58,3 @@ python recognize.py
 
 The model will check if two images match based on their facial features.
 
-## License
-
-This project is licensed under the MIT License.
-
----
-
-You can update the **git clone** link and other details specific to your project, and this will be a concise and easy-to-read README. Let me know if you need further modifications!
